@@ -1,0 +1,2 @@
+nome = "Ryan"
+print(f"")
